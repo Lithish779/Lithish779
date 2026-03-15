@@ -1,21 +1,27 @@
-# Hi, I'm Lithish 👋
+<div align="center">
 
-🚀 Aspiring Full-Stack Developer | MERN Stack | Problem Solver
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%20I'm%20Lithish%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-I build scalable web applications and focus on writing clean, efficient, and maintainable code.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications+🚀;MERN+Stack+Developer;Clean+%26+Efficient+Code+Writer;Open+to+Internships+%26+SDE+Roles)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
-
-- 🎓 B.Tech CSE Student
-- 💻 Strong in JavaScript, C++, and Full-Stack Development
-- 🌱 Currently improving DSA and backend architecture
-- 🎯 Target: Software Engineer / Full-Stack Developer
+```yaml
+Name     : Lithish Kumar
+Degree   : B.Tech CSE
+Focus    : Full-Stack Development (MERN)
+Strong in: JavaScript, C++, React, Node.js
+Learning : Advanced DSA & System Design
+Goal     : Software Engineer / Full-Stack Developer
+```
 
 ---
 
 ## 🛠️ Tech Stack
+
 **Languages:**
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -54,35 +60,61 @@ I build scalable web applications and focus on writing clean, efficient, and mai
 
 ---
 
-## 📌 Key Projects
+## 📌 Featured Projects
 
 ### 🛒 E-Commerce Platform
-- MERN-based scalable application
-- JWT Authentication
-- Optimized APIs & DB queries
-- Deployed on Vercel & Render
+> MERN Stack · JWT Auth · REST APIs · Vercel & Render
+
+- 🔐 Secure JWT-based authentication system
+- ⚡ Optimized APIs & MongoDB queries for performance
+- 📱 Fully responsive UI with clean UX
 
 ### 🏥 Patient Monitoring Dashboard
-- Real-time monitoring system
-- Secure REST APIs
-- Responsive UI
+> Real-time · REST APIs · Responsive UI
+
+- 📡 Real-time patient data monitoring system
+- 🔒 Secure backend with Express.js REST APIs
+- 🖥️ Clean, responsive dashboard interface
 
 ---
 
-## 📈 Current Focus
+## 📊 GitHub Stats
 
-- Advanced DSA
-- System Design Basics
-- Production-ready Full-Stack Apps
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lithish779&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lithish779&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lithish779&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## 📫 Contact
+## 🎯 Current Focus
 
-📧 Email: lithishkumar779@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/lithishkumar779  
-🌐 GitHub: https://github.com/Lithish779
+| Area | Status |
+|------|--------|
+| 🧠 Advanced DSA | 🔄 In Progress |
+| 🏗️ System Design Basics | 🔄 In Progress |
+| 🚀 Production-ready Full-Stack Apps | 🔄 Building |
 
 ---
 
-⭐ Open to internships and entry-level opportunities.
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:lithishkumar779@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/lithishkumar779">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lithish779">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
