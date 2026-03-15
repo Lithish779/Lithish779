@@ -9,15 +9,12 @@
 ---
 
 ## 👨‍💻 About Me
-```yaml
-## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student
 - 💻 Strong in JavaScript, C++, and Full-Stack Development
 - 🌱 Currently improving DSA and Backend Architecture
 - 🎯 Target: Software Engineer / Full-Stack Developer
 - 🤝 Open to Internships and Entry-Level Opportunities
-```
 
 ---
 
@@ -63,12 +60,18 @@
 
 ## 📌 Featured Projects
 
-### 🛒 E-Commerce Platform
-> MERN Stack · JWT Auth · REST APIs · Vercel & Render
+### 🛒 MarketZen — AI-Powered E-Commerce Platform
+> *Shop Smarter. Live Calmer.*
 
-- 🔐 Secure JWT-based authentication system
-- ⚡ Optimized APIs & MongoDB queries for performance
-- 📱 Fully responsive UI with clean UX
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge&logo=vercel)](https://ecommerce-taupe-omega-29.vercel.app/)
+
+> MERN Stack · JWT Auth · Gemini AI · REST APIs · Vercel & Render
+
+- 🔐 Secure JWT-based authentication & protected routes
+- 🤖 AI-powered features using Google Gemini AI
+- 🛍️ Full cart, checkout & order management system
+- ⚡ Optimized MongoDB queries for fast performance
+- 📱 Fully responsive UI built with Tailwind CSS
 
 ### 🏥 Patient Monitoring Dashboard
 > Real-time · REST APIs · Responsive UI
@@ -76,10 +79,6 @@
 - 📡 Real-time patient data monitoring system
 - 🔒 Secure backend with Express.js REST APIs
 - 🖥️ Clean, responsive dashboard interface
-
----
-
-
 
 ---
 
