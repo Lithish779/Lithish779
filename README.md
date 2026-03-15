@@ -10,12 +10,13 @@
 
 ## 👨‍💻 About Me
 ```yaml
-Name     : Lithish Kumar
-Degree   : B.Tech CSE
-Focus    : Full-Stack Development (MERN)
-Strong in: JavaScript, C++, React, Node.js
-Learning : Advanced DSA & System Design
-Goal     : Software Engineer / Full-Stack Developer
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student
+- 💻 Strong in JavaScript, C++, and Full-Stack Development
+- 🌱 Currently improving DSA and Backend Architecture
+- 🎯 Target: Software Engineer / Full-Stack Developer
+- 🤝 Open to Internships and Entry-Level Opportunities
 ```
 
 ---
