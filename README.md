@@ -107,4 +107,4 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-![Profile views](https://komarev.com/ghpvc/?username=Lithish779&color=blue)
+<img src="https://komarev.com/ghpvc/?username=Lithish779&color=blue" alt="Profile views" />
